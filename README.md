@@ -12,3 +12,5 @@ A responsive and modern web page built using **Tailwind CSS**, showcasing utilit
 - Fast and Lightweight Styling
 
 ---
+
+## 🛠️ Tech Stack
