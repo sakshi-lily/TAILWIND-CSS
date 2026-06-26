@@ -18,3 +18,13 @@ A responsive and modern web page built using **Tailwind CSS**, showcasing utilit
 - HTML5
 - CSS3
 - Tailwind CSS
+
+## 📂 Project Structure
+
+bash
+TAILWIND-CSS/
+│
+├── images/
+├── index.html
+├── style.css
+└── README.md
