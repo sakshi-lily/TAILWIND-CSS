@@ -13,4 +13,8 @@ A responsive and modern web page built using **Tailwind CSS**, showcasing utilit
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Tailwind CSS
