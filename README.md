@@ -46,3 +46,4 @@ cd TAILWIND-CSS
 ## 📚 What I Learned
 - Tailwind CSS utility classes
 - Responsive web design
+- Layout structuring
