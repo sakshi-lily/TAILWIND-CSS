@@ -36,6 +36,9 @@ TAILWIND-CSS/
 bash
 git clone https://github.com/sakshi-lily/TAILWIND-CSS.git
 
+2. Navigate to the project folder
 
+bash
+cd TAILWIND-CSS
 
 
