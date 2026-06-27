@@ -41,6 +41,5 @@ git clone https://github.com/sakshi-lily/TAILWIND-CSS.git
 bash
 cd TAILWIND-CSS
 
-
-
+3.Open index.html in your browser.
 
