@@ -44,3 +44,4 @@ cd TAILWIND-CSS
  3. Open index.html in your browser.
 
 ## 📚 What I Learned
+- Tailwind CSS utility classes
