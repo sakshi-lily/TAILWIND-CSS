@@ -47,3 +47,5 @@ cd TAILWIND-CSS
 - Tailwind CSS utility classes
 - Responsive web design
 - Layout structuring
+- Modern UI development
+- 
