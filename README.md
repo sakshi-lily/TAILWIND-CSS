@@ -48,4 +48,4 @@ cd TAILWIND-CSS
 - Responsive web design
 - Layout structuring
 - Modern UI development
-- 
+- Frontend optimization techniques
