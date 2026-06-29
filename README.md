@@ -51,4 +51,7 @@ cd TAILWIND-CSS
 - Frontend optimization techniques
 
 ## 🔮 Future Improvements
-
+- Dark mode support
+- Better animations
+- More reusable components
+- Accessibility improvements
