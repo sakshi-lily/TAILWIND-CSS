@@ -50,4 +50,5 @@ cd TAILWIND-CSS
 - Modern UI development
 - Frontend optimization techniques
 
+## 🔮 Future Improvements
 
