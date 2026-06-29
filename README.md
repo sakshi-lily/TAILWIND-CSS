@@ -57,3 +57,5 @@ cd TAILWIND-CSS
 - Accessibility improvements
 
 ## 👩‍💻 Author
+*Sakshi Lily*
+
