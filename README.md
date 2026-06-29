@@ -55,4 +55,5 @@ cd TAILWIND-CSS
 - Better animations
 - More reusable components
 - Accessibility improvements
-  
+
+## 👩‍💻 Author
